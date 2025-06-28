@@ -14,8 +14,6 @@ I’m a passionate Full Stack Web Developer with experience in **Python** and th
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=partho-31&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=partho-31&theme=dark&hide_border=false)
 
 ---
-
-

@@ -16,6 +16,46 @@ I'm a passionate **Full Stack Web Developer**. I have experience with **Python**
 ---
 [![](https://visitcount.itsvg.in/api?id=partho-31&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🔥 **What I Bring to the Table**  
+
+✅ **Backend Development** – Expert in **Django REST Framework**, **JWT Authentication**, and API documentation using **Swagger (drf-yasg)**.  
+✅ **Frontend Development** – Proficient in **React.js** with **Tailwind CSS** for responsive, modern UIs.  
+✅ **Database Management** – Strong experience with **PostgreSQL** for efficient data handling.  
+✅ **Problem-Solving** – Solid foundation in **C, C++, DSA** for optimized and scalable solutions.  
+
+---
+
+## 🛠 **Tech Stack**  
+
+### **Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### **Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Tools & Others**  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🌟 **Why Work With Me?**  
+
+✔ **Clean & Efficient Code** – I prioritize maintainable and scalable architecture.  
+✔ **API-First Approach** – Seamless integration between frontend & backend.  
+✔ **Responsive Design** – Mobile-friendly UIs with Tailwind CSS.  
+✔ **Problem Solver** – Strong DSA knowledge for optimized solutions.  
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

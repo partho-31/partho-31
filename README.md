@@ -1,5 +1,7 @@
 # 👋 Hi, This is Partho Kumar Mondal
 
+![Banner image](https://res.cloudinary.com/demo/image/upload/v1700000000/my-folder/banner.png)
+
 I’m a passionate **Full Stack Web Developer** with experience in **Python** and the **Django REST Framework** for backend development. My work includes implementing **JWT authentication** and generating API documentation using **Swagger (drf-yasg)**. On the frontend, I use **React** with **Tailwind CSS** to create responsive user interfaces. I also use **PostgreSQL** for relational database management. Additionally, I have a basic understanding of **C**, **C++**, and **Data Structures and Algorithms**, which support my foundational problem-solving skills.
 
 
@@ -15,6 +17,7 @@ I’m a passionate **Full Stack Web Developer** with experience in **Python** an
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=partho-31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=partho-31&theme=dark&hide_border=false)
 
 
